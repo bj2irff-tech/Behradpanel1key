@@ -28,6 +28,12 @@
         "key": "1",
         "expirydate": "28-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "72646efced2c1c5b",
+        "key": "2",
+        "expirydate": "25-08-2026",
+        "Allowoffline": false
     }
   
 ]
