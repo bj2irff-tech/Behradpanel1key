@@ -52,6 +52,12 @@
         "key": "4",
         "expirydate": "25-08-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0cfcfc09f9628b61",
+        "key": "mmd",
+        "expirydate": "25-08-2027",
+        "Allowoffline": false
     }
     
   
