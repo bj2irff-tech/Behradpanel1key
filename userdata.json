@@ -70,6 +70,12 @@
         "key": "jorix",
         "expirydate": "28-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "871bb86ceebbbd44",
+        "key": "black",
+        "expirydate": "28-08-2026",
+        "Allowoffline": false
     }
     
   
